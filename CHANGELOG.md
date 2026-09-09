@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Upgraded `postcss-selector-parser` to `^6.1.4`. [#1625](https://github.com/sourcebot-dev/sourcebot/pull/1625)
 - Upgraded `fast-uri` to `3.1.7`. [#1626](https://github.com/sourcebot-dev/sourcebot/pull/1626)
 - Upgraded `qs` to `6.16.0`. [#1627](https://github.com/sourcebot-dev/sourcebot/pull/1627)
+- Upgraded `sharp` to `0.35.4`. [#1638](https://github.com/sourcebot-dev/sourcebot/pull/1638)
 - Upgraded `vitest` to `4.1.11`. [#1637](https://github.com/sourcebot-dev/sourcebot/pull/1637)
 - Upgraded `js-yaml` to `4.3.2`. [#1636](https://github.com/sourcebot-dev/sourcebot/pull/1636)
 - Upgraded `@humanfs/node` to `0.16.8`. [#1630](https://github.com/sourcebot-dev/sourcebot/pull/1630)
