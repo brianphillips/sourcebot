@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.1.11] - 2026-09-10
+
 ### Added
 - Added a live repository indexing job runtime to the syncing badge. [#1623](https://github.com/sourcebot-dev/sourcebot/pull/1623)
 
