@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Fixed
+- Upgraded `baseline-browser-mapping` to `2.11.21`. [#1645](https://github.com/sourcebot-dev/sourcebot/pull/1645)
 - Upgraded `smol-toml` to `1.8.0`. [#1644](https://github.com/sourcebot-dev/sourcebot/pull/1644)
 - Upgraded `hono` to `4.13.7`. [#1643](https://github.com/sourcebot-dev/sourcebot/pull/1643)
 - Upgraded `nodemailer` to `9.1.1`. [#1642](https://github.com/sourcebot-dev/sourcebot/pull/1642)
