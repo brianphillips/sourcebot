@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.1.12] - 2026-09-10
+
 ### Changed
 - Updated the bundled Zoekt version. [#1646](https://github.com/sourcebot-dev/sourcebot/pull/1646) [#1647](https://github.com/sourcebot-dev/sourcebot/pull/1647)
 
